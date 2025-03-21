@@ -24,16 +24,5 @@ To run this notebook, ensure you have the following installed:
 - R packages: `deSolve`, `ggplot2`
 - Jupyter Notebook with R kernel
 
-## Running the Notebook
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   ```
-2. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook Mod_3_notebook_2_Automated_Least-Squares_Calibration.ipynb
-   ```
-3. Follow the instructions in the notebook to run the optimization process.
 
 
