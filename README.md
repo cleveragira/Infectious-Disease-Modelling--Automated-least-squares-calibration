@@ -36,11 +36,4 @@ To run this notebook, ensure you have the following installed:
    ```
 3. Follow the instructions in the notebook to run the optimization process.
 
-## Author
 
-[Your Name]  
-[Your Contact or GitHub Profile]  
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
